@@ -1,0 +1,2 @@
+serviceClass: gov.cdc.irdu.healthnews.client.PersonService
+path: E84BF1473D2B48CCEF4D2F1EA4C8A90D.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: gov.cdc.irdu.healthnews.client.GoogleService
+path: A1A21F6AE274CB410F7642BCA9750A62.gwt.rpc

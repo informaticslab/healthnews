@@ -1,0 +1,124 @@
+/** Add css rules here for your application. */
+
+.mainPanel {
+	background-color: black;
+	width: 100%;
+	height: 100%;	
+    border: 1px solid #3C3B3A;    
+    color: #FAEBAE;
+}
+
+.headerPanel {
+	width: 100%;
+	height: 162px;
+	left: 0px;
+    top: 0px;
+    border-bottom: 2px solid #FAEBAE;	
+}
+
+.controlPanel {
+	spacing: 6px;
+}
+
+.treePanel {
+	width: 100%;
+	height: 100%;	
+}
+
+.footerPanel {
+	width: 100%;
+	height: 200px;
+    bottom: 0px;
+    border-top: 2px solid #FAEBAE;	
+}
+
+.tipPanel {
+    width: 400px;
+    background-color: white;
+    border:1px solid #ccc;
+    -moz-box-shadow:#555 2px 2px 8px;
+    -webkit-box-shadow:#555 2px 2px 8px;
+    -o-box-shadow:#555 2px 2px 8px;
+    opacity:1.0;
+    font-size:10px;
+    font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+    padding:7px;
+}
+
+.tipContent {
+	width: 100%;
+	height: 100%;
+}	
+
+.tipDate {
+	color: red;
+}	
+
+.tipRelated {
+	color: black;
+}	
+
+.tipSource {
+	color: green;
+}	
+
+.keyPanel {
+	background-color: #2B2B2B;	
+    font-family: Verdana, sans-serif;
+    padding: 20px;
+}
+
+.keyChart {
+	border-collapse: collapse;	
+}
+
+.labelColumn {
+	text-align: center;	
+	font-size: 9px;
+	padding-right: 8px;
+}
+
+.categoryColumn {
+	width: 100px;
+	border-right: 8px solid #2B2B2B;
+}
+
+.categorySelector {
+	vertical-align: bottom;	
+}
+
+.selectAll {
+	padding-left: 20px;
+}
+
+.colorBand {
+	width: 100%;
+	height: 18px;
+}
+
+.largeLabel {
+	font-size: 150%;	
+}
+
+.smallLabel {
+	font-size: 9px;
+}
+
+.labelButton {
+	text-decoration: underline;	
+	cursor: pointer;
+}
+
+.treeNode {
+	border: 1px solid transparent;	
+	font-family: Verdana;
+}
+
+.treeNodeMouseOver {
+	border: 1px solid #FAEBAE;
+}
+
+.rootNode {
+	font-size: 20px;
+	text-align: center;	
+}
