@@ -4,7 +4,7 @@ Inspired by http://newsmap.jp, this app uses the Google News API to visualize pu
 
 This prototype no longer works due to changes in Google's News API. The source is stored in this repository as an archive.
 
-Prototype write-up is available through [PHIResearchLab.org](http://www.phiresearchlab.org/index.php?option=com_content&view=article&id=70:ph-news&catid=1:prototypes&Itemid=3)
+Prototype write-up is available through [PHIResearchLab.org](http://www.phiresearchlab.org/?p=2800)
 
 ## Goals
 Share development with the public health community.
